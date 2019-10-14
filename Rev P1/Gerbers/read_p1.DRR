@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NC Drill File Report For :  T:\MISC~0B7\NOVUS\NV-SOUND\READER\REV P1\READ_P1.PCB   14-Mar-2019  10:13:27
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top - Bottom
+ASCII File : t:\misc~0b7\novus\nv-sound\reader\rev p1\gerbers\read_p1.TXT
+EIA File   : t:\misc~0b7\novus\nv-sound\reader\rev p1\gerbers\read_p1.DRL
+
+Tool         Hole Size          Hole Count        Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          90        19.099 Inch (485.122 mm)
+T2        28mil (0.7112mm)         2         0.800 Inch (20.321 mm)
+T3        32mil (0.8128mm)         3         1.411 Inch (35.833 mm)
+T4        40mil (1.016mm)          8         3.369 Inch (85.583 mm)
+T5        47mil (1.1938mm)         2         2.908 Inch (73.854 mm)
+T6        115mil (2.921mm)         4         7.895 Inch (200.545 mm)
+---------------------------------------------------------------------------
+Totals                             109       35.483 Inch (901.258 mm)
+
+Total Processing Time : 00:00:00

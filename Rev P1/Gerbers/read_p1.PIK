@@ -1,0 +1,61 @@
+Designator Pattern                Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation
+
+2          FIDUCIAL           -65323mil     -49400mil       1043mil       -374mil     -65323mil     -49400mil  T         0.000
+F3         FIDUCIAL             2575mil       1255mil   2902.716mil   1426.339mil       2575mil       1255mil  T         0.000
+1          RFID-RC522       2631.063mil    800.748mil   2631.063mil   1150.748mil   2631.063mil   1150.748mil  B       180.000
+V1         1206               2407.5mil       1230mil       2340mil       1230mil       2340mil       1230mil  T         0.000
+U10        XTAL CM200C       1559.41mil     397.52mil       1670mil        460mil   1667.677mil    460.512mil  T       180.000
+U11        SO-8                 1890mil        340mil       1780mil        415mil       1780mil        415mil  T         0.000
+C12        0805                 1895mil        505mil       1850mil        505mil       1850mil        505mil  T         0.000
+D3         SMA                  2135mil     466.26mil       2135mil        545mil       2135mil        545mil  T       270.000
+R15        0805                 2040mil        755mil       1995mil        755mil       1995mil        755mil  T         0.000
+J1         2X20 SMD TOP     1277.803mil   1041.401mil       2228mil        919mil   2228.315mil        919mil  T         0.000
+Q3         SOT-23             2228.5mil      752.5mil       2185mil        790mil       2185mil        790mil  T       270.000
+C1         0805                 2425mil        780mil       2380mil        780mil       2380mil        780mil  T         0.000
+SPK        SPK SMT-0931     2398.504mil     478.15mil       2545mil        620mil   2542.205mil     621.85mil  T       180.000
+F4         FIDUCIAL             2605mil         60mil       2645mil         50mil       2605mil         60mil  T         0.000
+C13        0805                 2630mil        200mil       2630mil        155mil       2630mil        155mil  T        90.000
+4          LOGOJKSILK         -65323mil     -49400mil       2215mil        110mil     -65323mil     -49400mil  T         0.000
+D2         LED APDA3020     1815.158mil      56.26mil   1875.158mil      56.26mil   1875.158mil      56.26mil  T       270.000
+R14        0805                 1810mil        155mil       1765mil        155mil       1765mil        155mil  T         0.000
+D1         LED APDA3020     1586.811mil      56.26mil   1646.811mil      56.26mil   1646.811mil      56.26mil  T       270.000
+R4         0805                 1595mil        155mil       1550mil        155mil       1550mil        155mil  T         0.000
+SW1        SW EG1270        1308.228mil     99.567mil   1406.653mil     99.567mil   1406.653mil     99.567mil  T       180.000
+U9         SOT-23-5              755mil    372.599mil        805mil        335mil        705mil        410mil  T        90.000
+C5         0805                  910mil        195mil        910mil        150mil        910mil        150mil  T        90.000
+C4         0805                  770mil        145mil        725mil        145mil        725mil        145mil  T         0.000
+U2         SC70                  755mil        250mil        715mil        275mil        715mil        275mil  T       270.000
+R1         0805                  760mil        490mil        715mil        490mil        715mil        490mil  T         0.000
+R13        0805                  780mil        580mil        735mil        580mil        735mil        580mil  T         0.000
+U8         SOT-23-5              640mil    797.598mil        690mil        760mil        590mil        835mil  T        90.000
+C10        0805                  805mil        745mil        805mil        700mil        805mil        700mil  T        90.000
+U6         SOT-23-5              965mil    767.598mil       1015mil        730mil        915mil        805mil  T        90.000
+Q2         SOT-23             1428.5mil      767.5mil       1385mil        805mil       1385mil        805mil  T       270.000
+U4         SOT-23-5             1225mil    767.598mil       1275mil        730mil       1175mil        805mil  T        90.000
+R6         0805                 1205mil        645mil       1160mil        645mil       1160mil        645mil  T         0.000
+C11        0805                 1015mil        605mil       1060mil        605mil       1060mil        605mil  T       180.000
+R3         0805                 1095mil        515mil       1050mil        515mil       1050mil        515mil  T         0.000
+Q1         SOT-23              927.5mil      376.5mil        965mil        420mil        965mil        420mil  T       180.000
+C6         0805                 1110mil        370mil       1155mil        370mil       1155mil        370mil  T       180.000
+U1         SOT-23-5         1137.401mil        240mil       1175mil        290mil       1100mil        190mil  T       180.000
+C7         0805                 1250mil        250mil       1250mil        205mil       1250mil        205mil  T        90.000
+R5         0805                 1390mil        240mil       1345mil        240mil       1345mil        240mil  T         0.000
+R9         0805                 1340mil        395mil       1340mil        350mil       1340mil        350mil  T        90.000
+R8         0805                 1415mil        555mil       1370mil        555mil       1370mil        555mil  T         0.000
+R7         0805                 1415mil        645mil       1370mil        645mil       1370mil        645mil  T         0.000
+U3         VSSOP 10P        1656.417mil    600.905mil       1570mil        640mil       1570mil        640mil  T       270.000
+C8         0805                 1655mil        740mil       1610mil        740mil       1610mil        740mil  T         0.000
+C3         0805                 1755mil       1255mil       1710mil       1255mil       1710mil       1255mil  T         0.000
+C2         0805                 1490mil       1255mil       1445mil       1255mil       1445mil       1255mil  T         0.000
+3          COPYRIGHT          -65323mil     -49400mil        860mil       1255mil     -65323mil     -49400mil  T         0.000
+           FIDUCIAL               55mil       1225mil    112.173mil   1219.819mil         55mil       1225mil  T         0.000
+R12        0805                   90mil        770mil         90mil        725mil         90mil        725mil  T        90.000
+R11        0805                  180mil        770mil        180mil        725mil        180mil        725mil  T        90.000
+R10        0805                  270mil        770mil        270mil        725mil        270mil        725mil  T        90.000
+U5         SC70                  420mil        805mil        380mil        830mil        380mil        830mil  T       270.000
+U7         SOT-23-5              420mil    692.598mil        470mil        655mil        370mil        730mil  T        90.000
+C9         0805                  635mil        685mil        590mil        685mil        590mil        685mil  T         0.000
+J2         2P PH-K-S RA      546.929mil    509.646mil        545mil        550mil    546.929mil    549.016mil  T        90.000
+R2         0805                  570mil        330mil        525mil        330mil        525mil        330mil  T         0.000
+F1         FUSE 0ZCG           472.5mil        140mil        370mil        140mil        370mil        140mil  T         0.000
+
